@@ -1,0 +1,10 @@
+Save the founder's photo in this folder with the exact filename:
+
+    founder.jpg
+
+The landing page (index.html) loads it automatically at the
+"Meet the Founder" section. A portrait orientation (3:4) works best —
+the photo you have of Udom in the black shirt and bow tie is ideal.
+
+Until the file exists, the page shows a styled "UE" placeholder instead.
+You can delete this note after adding the photo.
