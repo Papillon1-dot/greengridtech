@@ -1,0 +1,20 @@
+:root{
+  --green-950:#0B3A1F;
+  --green-900:#14532D;
+  --green-700:#15803D;
+  --green-600:#16A34A;
+  --green-500:#22C55E;
+  --green-200:#BBF7D0;
+  --green-100:#DCFCE7;
+  --green-50:#F0FDF4;
+  --gold-400:#FBBF24;
+  --gold-500:#F0A810;
+  --gold-700:#A16207;
+  --ink:#14352A;
+  --ink-soft:#3F5C4D;
+  --card:#FFFFFF;
+  --border:#D7EEDC;
+  --radius:16px;
+  --shadow:0 6px 24px rgba(20,83,45,.08);
+  --shadow-lift:0 12px 32px rgba(20,83,45,.14);
+}
